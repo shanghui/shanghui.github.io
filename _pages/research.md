@@ -1,4 +1,4 @@
----
+<img width="289" height="81" alt="image" src="https://github.com/user-attachments/assets/27f32302-0599-4b28-ab57-ed2fdff2aa1c" />---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -42,17 +42,24 @@ The fundamental many-electron Schrodinger equation is solved straightforwardly w
 fermionic ansatz methods. QiankunNet showcases the power of the Transformer-based language model in achieving
 unprecedented efficiency in quantum chemistry calculations, opening up new avenues for chemical discovery and demonstrating the potential to solve the large-scale Schrodinger equation with modest computational cost.
 
-[1] Shang, H., Guo, C., Wu, Y., Li, Z. & Yang, J. Solving Schrödinger Equation with a Language Model. Preprint at https://arxiv.org/abs/2307.09343 (2023).
+[1] Shang, H.*, Guo, C., Wu, Y., Li, Z., Yang, J.*  Solving Schrödinger Equation with a Transformer-based framework. Nat. Commun. , DOI : 10.1038/s41467-025-63219-2A (2025) 
 
 [2] Wu, Y., Guo, C.,* Fan, Y., Zhou, P. & Shang, H.* NNQS-Transformer: An efficient and scalable neural network quantum states approach for ab initio quantum chemistry. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '23) (Association for Computing Machinery, New York, 2023). https://dl.acm.org/doi/10.1145/3581784.3607053
 
-[3] Fu, L., Wu, Y., Shang, H.* & Yang, J.* Transformer-Based Neural-Network Quantum State Method for Electronic Band Structures of Real Solids. J. Chem. Theory Comput. 20, 6218–6226 (2024). https://doi.org/10.1021/acs.jctc.4c00257
+[3] Fu, L., Wu, Y., Shang, H.* & Yang, J.* Transformer-Based Neural-Network Quantum State Method for Electronic Band Structures of Real Solids. J. Chem. Theory Comput. 20, 6218 (2024). https://doi.org/10.1021/acs.jctc.4c00257
 
 [4] Ma, H., Shang, H.* & Yang, J.* Quantum embedding method with transformer neural network quantum states for strongly correlated materials. npj Comput. Mater. 10, 220 (2024). https://doi.org/10.1038/s41524-024-01231-8
 
-[5] Lai, J., Kan, B., Wu, Y., Fu, Q.,* Shang, H.,* Li, Z. & Yang, J*. Accurate Calculation of Interatomic Forces with Neural Networks Based on a Generative Transformer Architecture. J. Chem. Theory Comput. 20, 9478–9487 (2024). https://doi.org/10.1021/acs.jctc.4c00756
+[5] Lai, J., Kan, B., Wu, Y., Fu, Q.,* Shang, H.,* Li, Z., Yang, J*. Accurate Calculation of Interatomic Forces with Neural Networks Based on a Generative Transformer Architecture. J. Chem. Theory Comput. 20, 9478 (2024). https://doi.org/10.1021/acs.jctc.4c00756
 
-[6] Kan, B., Tian, Y., Wu, Y., Zhang, Y. & Shang, H.* Bridging the Gap between Transformer-Based Neural Networks and Tensor Networks for Quantum Chemistry. J. Chem. Theory Comput. (2025). https://doi.org/10.1021/acs.jctc.4c01703
+[6] Kan, B., Tian, Y., Wu, Y., Zhang, Y. & Shang, H.* Bridging the Gap between Transformer-Based Neural Networks and Tensor Networks for Quantum Chemistry. J. Chem. Theory Comput. 21, 3426 (2025). https://doi.org/10.1021/acs.jctc.4c01703
+
+[7] Wu, Y., Cao, W., Zhao, J., Shang, H.* Fast and Scalable Neural Network Quantum States Method for Molecular Potential Energy Surfaces. IEEE Transactions on Parallel and Distributed Systems. 36(7), 1431 (2025). https://doi.org/10.1109/TPDS.2025.3568360
+
+[8] Kan, B., Zhou, Y., Xie D., Zhou P., Zhang Y., Shang, H.*  NNQS-SCI: Tackling Trillion-Dimensional Hilbert Space with  Adaptive Neural Network Quantum States. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '25) (Association for Computing Machinery, New York, 2025).
+
+[9] Ma, H., Fu, L., Shang, H., Yang, J. QiankunNet-Solid/DMET: a generative neural network quantum state method for solid material simulations (in Chinese). Chin Sci Bull, 70, 4015 (2025), doi: 10.1360/CSB-2025-0315    
+
 
 
 

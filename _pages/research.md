@@ -42,7 +42,7 @@ The fundamental many-electron Schrodinger equation is solved straightforwardly w
 fermionic ansatz methods. QiankunNet showcases the power of the Transformer-based language model in achieving
 unprecedented efficiency in quantum chemistry calculations, opening up new avenues for chemical discovery and demonstrating the potential to solve the large-scale Schrodinger equation with modest computational cost.
 
-[1] Shang, H.*, Guo, C., Wu, Y., Li, Z., Yang, J.*  Solving Schrödinger Equation with a Transformer-based framework. Nat. Commun. , DOI : 10.1038/s41467-025-63219-2A (2025) 
+[1] Shang, H.* , Guo, C., Wu, Y., Li, Z., Yang, J.*  Solving Schrödinger Equation with a Transformer-based framework. Nat. Commun. , DOI : 10.1038/s41467-025-63219-2A (2025) 
 
 [2] Wu, Y., Guo, C.,* Fan, Y., Zhou, P. & Shang, H.* NNQS-Transformer: An efficient and scalable neural network quantum states approach for ab initio quantum chemistry. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '23) (Association for Computing Machinery, New York, 2023). https://dl.acm.org/doi/10.1145/3581784.3607053
 
@@ -58,7 +58,7 @@ unprecedented efficiency in quantum chemistry calculations, opening up new avenu
 
 [8] Kan, B., Zhou, Y., Xie D., Zhou P., Zhang Y., Shang, H.*  NNQS-SCI: Tackling Trillion-Dimensional Hilbert Space with  Adaptive Neural Network Quantum States. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '25) (Association for Computing Machinery, New York, 2025).
 
-[9] Ma, H., Fu, L., Shang, H., Yang, J. QiankunNet-Solid/DMET: a generative neural network quantum state method for solid material simulations (in Chinese). Chin Sci Bull, 70, 4015 (2025), doi: 10.1360/CSB-2025-0315    
+[9] Ma, H., Fu, L., Shang, H.* , Yang, J.* QiankunNet-Solid/DMET: a generative neural network quantum state method for solid material simulations (in Chinese). Chin Sci Bull, 70, 4015 (2025), doi: 10.1360/CSB-2025-0315    
 
 
 

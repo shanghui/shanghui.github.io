@@ -17,6 +17,24 @@ author_profile: true
 * [2023(12)](#Y2023)
 * [2024(12)](#Y2024)
 * [2025(13)](#Y2025)
+* [2026(8)](#Y2026)
+
+## 2026
+{: #Y2026 }
+
+|     |
+| --- |
+| 80. **Transferable neural network quantum state method for quantum chemistry** <br> Yangjun Wu\#, Jiexuan Zhou\#, Yumeng Zhou\#, Zhuozhao Xia\#, and Honghui Shang\*. <br> _Computer Physics Communications_, 2026. \[ [DOI](https://doi.org/10.1016/j.cpc.2026.110425) \] |
+| 79. **HIP-DFPT: Scalable Optimization of Irregular Workloads in Quantum Perturbation on GPU Clusters** <br> Meng Wan\#, Hao Du\#, Jue Wang\*, Shunde Li, Honghui Shang\*, He Bai, Peng Shi, Yuchen Pang, Ying Liu, Jinrong Jiang, Yangang Wang, and Xuebin Chi. <br> _IEEE Transactions on Parallel and Distributed Systems_, 37(9):2021--2036, sep 2026. \[ [DOI](https://doi.org/10.1109/TPDS.2026.3705623) \] |
+| 78. **Symmetry-Blocked Matrix Product States as a Neural-Network Quantum-State Ansatz for Quantum Chemistry** <br> Lizhong Fu, Bowen Kan, Chu Guo\*, and Honghui Shang\*. <br> _Journal of Chemical Theory and Computation_, 22(16):8350--8367, aug 2026. \[ [DOI](https://doi.org/10.1021/acs.jctc.6c01040) \] |
+| 77. **A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States** <br> Daran Sun\#, Bowen Kan\#, Haoquan Long\#, Hairui Zhao, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang\*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, and Guangming Tan\*. <br> In _Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing_, HPDC '26. ACM, jul 2026. \[ [DOI](https://doi.org/10.1145/3806645.3807583) \] |
+| 76. **A generative neural network quantum state approach for molecular and material systems（面向分子与材料体系的生成式神经网络量子态方法）** <br> Honghui Shang\* and Jinlong Yang\*. <br> _Physics（物理）_, 55(5):325--336, may 2026. \[ [DOI](https://doi.org/10.7693/wl20260503) \] |
+| 75. **First-Principles Approach to Electron-Vibration Interaction in Molecules from an Atomic Orbital Basis: The Allen–Heine–Cardona Theory and Beyond** <br> Hao-Yu Qi, Honghui Shang\*, Xinguo Ren\*, and Hong Jiang\*. <br> _The Journal of Physical Chemistry Letters_, 2026. \[ [DOI](https://doi.org/10.1021/acs.jpclett.6c00235) \] |
+| 74. **Implementation of the hybrid exchange-correlation functionals in the siesta code** <br> Yann Pouillon\*, Bill Clintone Oyomo, James Sifuna, María Camarasa-Gómez, Xinming Qin, Carlos Beltrán, Fernando Gómez-Ortiz, Honghui Shang\*, and Javier Junquera\*. <br> _Computer Physics Communications_, 323:110086, 2026. \[ [DOI](https://doi.org/10.1016/j.cpc.2026.110086) \] |
+| 73. **MPS-VMC: A high-performance matrix product state variational Monte Carlo Solver for ab initio quantum chemistry** <br> Zhiqian Xu, Yangjun Wu, Lizhong Fu, Chu Guo\*, and Honghui Shang\*. <br> _Computer Physics Communications_, 322:110057, 2026. \[ [DOI](https://doi.org/10.1016/j.cpc.2026.110057) \] |
+
+## 2025 and earlier
+{: #Y2025 }
 
 |     |
 | --- |

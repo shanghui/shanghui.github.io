@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Research Group"
+    url: https://quantumict.github.io/
+
   - title: "Publications"
     url: /publications/
 
